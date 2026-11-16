@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=FreeSynergy.Maps
+Comment=Maps and places
+Exec=fs-maps
+Icon=net.freesynergy.Maps
+Terminal=false
+Categories=Utility;Maps;
